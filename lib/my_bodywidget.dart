@@ -29,7 +29,7 @@ class _MyBodywidgetState extends State<MyBodywidget> {
     '+',
     '00',
     '0',
-    ',',
+    '.',
     '='
   ];
 
